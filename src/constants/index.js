@@ -111,7 +111,7 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "Information Technology Analyst",
+        title: "Research Assistant",
         company_name: "Binghamton University",
         icon: starbucks,
         iconBg: "#accbe1",
